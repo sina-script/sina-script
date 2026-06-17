@@ -4,7 +4,7 @@
 ```javascript
 const personalInfromation = {
   firstName:"Sina",
-  lastName:"Vasheghani Farahani",
+  lastName:"Farahani",
   age:18,
   country:"Iran",
   city:"Tehran"
