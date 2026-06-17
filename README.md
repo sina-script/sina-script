@@ -1,5 +1,5 @@
-# Hi, I am SinaScript😉
-### Writing my journey, one line at a time.
+<h1>Hi, I am SinaScript😉</h1>
+<h3>Writing my journey, one line at a time.</h3>
 
 ```javascript
 const personalInfromation = {
@@ -17,8 +17,8 @@ educational_inforamtion = {
   "skills":"Javascript, React js, Next js, Python, Django, ..."
 }
 ```
-## My activity
+<h2>My activity</h2>
 ![](https://github-readme-stats.vercel.app/api?username=sina-script&show_icons=true&theme=radical)
 
-## My languages used
+<h2>My languages used</h2>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-script&layout=donut-vertical)
