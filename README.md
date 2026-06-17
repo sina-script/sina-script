@@ -1,3 +1,6 @@
+# Hi, I am SinaScript😉
+### Writing my journey, one line at a time.
+
 ```javascript
 const personalInfromation = {
   firstName:"Sina",
