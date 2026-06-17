@@ -41,28 +41,37 @@ educational_inforamtion = {
 
 <p>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-html-5-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-html-5-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-css-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-css-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-javascript-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-javascript-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-react-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-react-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="">
+    <img src="" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-typescript-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-typescript-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-npm-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-python-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-python-96.png?raw=true">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-django-96%20(1).png?raw=true" width="50px">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-postgresql-96.png?raw=true" width="50px">
+  </a>
+  <a href="">
+    <img src=https://github.com/sina-script/sina-script/blob/main/icons8-git-96.png?raw=true" width="50px">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-wordpress-94.png?raw=true" width="50px">
   </a>
   
 </p>
