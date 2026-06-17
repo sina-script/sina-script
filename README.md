@@ -53,7 +53,7 @@ educational_inforamtion = {
     <img src="https://github.com/sina-script/sina-script/blob/main/icons8-react-96.png?raw=true" width="50px">
   </a>
   <a href="">
-    <img src="" width="50px">
+    <img src="https://github.com/sina-script/sina-script/blob/main/nextjs.png?raw=true" width="50px">
   </a>
   <a href="">
     <img src="https://github.com/sina-script/sina-script/blob/main/icons8-typescript-96.png?raw=true" width="50px">
