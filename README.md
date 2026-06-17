@@ -11,6 +11,7 @@ const personalInfromation = {
   city:"Tehran"
 }
 ```
+
 ```python
 educational_inforamtion = {
   "level":"Diploma",
@@ -27,6 +28,9 @@ educational_inforamtion = {
   </a>
   <a href="https://www.instagram.com/sinafarahani7">
     <img src="https://img.shields.io/badge/instagram-@sinafarahani7-red?logo=instagram">
+  </a>
+  <a href="https://wa.me/989354444853">
+    <img src="https://img.shields.io/badge/whatsapp-@sina_script-dark_green?logo=whatsapp">
   </a>
 </p>
 
