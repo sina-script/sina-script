@@ -20,7 +20,7 @@ educational_inforamtion = {
 }
 ```
 
-<h2>Contact us</h2>
+<h2>Contact me</h2>
 
 <p>
   <a href="t.me/sina_script">
