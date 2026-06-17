@@ -37,6 +37,36 @@ educational_inforamtion = {
   </a>
 </p>
 
+<h2>Skills and Tools</h2>
+
+<p>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-html-5-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-css-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-javascript-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-react-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-typescript-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-npm-96.png?raw=true">
+  </a>
+  <a href="">
+    <img src="https://github.com/sina-script/sina-script/blob/main/icons8-python-96.png?raw=true">
+  </a>
+  
+</p>
+
 
 <h2>My activity</h2>
 
