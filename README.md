@@ -26,11 +26,11 @@ educational_inforamtion = {
   <a href="t.me/sina_script">
     <img src="https://img.shields.io/badge/telegram-@sina_script-blue?logo=telegram">
   </a>
-  <a href="https://www.instagram.com/sinafarahani7">
-    <img src="https://img.shields.io/badge/instagram-@sinafarahani7-purple?logo=instagram">
-  </a>
   <a href="https://wa.me/989354444853">
     <img src="https://img.shields.io/badge/whatsapp-@sina_script-dark_green?logo=whatsapp">
+  </a>
+  <a href="https://www.instagram.com/sinafarahani7">
+    <img src="https://img.shields.io/badge/instagram-@sinafarahani7-purple?logo=instagram">
   </a>
   <a href="mailto:sina.farahani.2772@gmail.com">
     <img src="https://img.shields.io/badge/gmail-@sina.farahani.2772@gmail.com-red?logo=gmail">
