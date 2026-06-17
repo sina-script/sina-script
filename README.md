@@ -17,4 +17,8 @@ educational_inforamtion = {
   "skills":"Javascript, React js, Next js, Python, Django, ..."
 }
 ```
+## My activity
 ![](https://github-readme-stats.vercel.app/api?username=sina-script&show_icons=true&theme=radical)
+
+## My languages used
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-script&layout=donut-vertical)
