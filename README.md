@@ -79,8 +79,8 @@ educational_inforamtion = {
 
 <h2>My activity</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=sina-script&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sina-script&theme=radical)
 
 <h2>My languages used</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-script&layout=donut-vertical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sina-script&theme=radical)
